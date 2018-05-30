@@ -1,0 +1,62 @@
+;artists;name;acousticness;danceability;energy;instrumentalness;liveness;loudness;mode;speechiness;tempo;valence;track_href
+0;Led Zeppelin;Immigrant Song;0.013;0.564;0.932;0.169;0.349;-10.068;1;0.0554;112.937;0.619;https://api.spotify.com/v1/tracks/78lgmZwycJ3nzsdgmPPGNx
+1;Led Zeppelin;Whole Lotta Love;0.0484;0.412;0.902;0.131;0.405;-11.6;1;0.405;89.74;0.422;https://api.spotify.com/v1/tracks/0hCB0YR03f6AmQaHbwWDe8
+2;Led Zeppelin;Black Dog;0.396;0.437;0.864;0.0314;0.242;-7.842;0;0.0904;81.394;0.749;https://api.spotify.com/v1/tracks/3qT4bUD1MaWpGrTwcvguhb
+3;Led Zeppelin;Ramble On;0.072;0.468;0.607;0.000852;0.225;-11.367;1;0.0336;98.429;0.886;https://api.spotify.com/v1/tracks/3MODES4TNtygekLl146Dxd
+4;Led Zeppelin;Good Times Bad Times;0.0382;0.476;0.717;7.61e-05;0.0818;-9.192;1;0.0949;93.584;0.753;https://api.spotify.com/v1/tracks/0QwZfbw26QeUoIy82Z2jYp
+5;Led Zeppelin;Stairway To Heaven;0.58;0.338;0.34;0.0032;0.116;-12.049;0;0.0339;82.433;0.197;https://api.spotify.com/v1/tracks/5CQ30WqJwcep0pYcV4AMNc
+6;Led Zeppelin;Kashmir;0.488;0.48;0.536;4.22e-05;0.155;-11.166;1;0.0427;80.617;0.581;https://api.spotify.com/v1/tracks/2nVHqZbOGkKWzlcy1aMbE7
+7;Led Zeppelin;Heartbreaker;0.0746;0.403;0.709;0.494;0.132;-9.366;1;0.0885;97.161;0.654;https://api.spotify.com/v1/tracks/6WE7jSshLCuVKoCmobVKVf
+8;Led Zeppelin;When The Levee Breaks;0.00217;0.271;0.766;0.52;0.0707;-8.03;1;0.0329;142.914;0.803;https://api.spotify.com/v1/tracks/05f8Hg3RSfiPSCBQOtxl3i
+9;Led Zeppelin;All My Love;0.131;0.599;0.744;0.00275;0.0795;-8.72;1;0.0316;91.259;0.723;https://api.spotify.com/v1/tracks/6lrh9jZ1xoMwoErgPSj2rY
+10;Led Zeppelin;Rock And Roll;0.000582;0.317;0.887;0.00258;0.0891;-7.292;1;0.0375;169.613;0.871;https://api.spotify.com/v1/tracks/4PRGxHpCpF2yoOHYKQIEwD
+11;Led Zeppelin;Since I've Been Loving You;0.0021;0.393;0.364;0.0703;0.121;-10.945;0;0.0345;118.566;0.308;https://api.spotify.com/v1/tracks/1SDiiE3v2z89VxC3aVRKHQ
+12;Led Zeppelin;Babe I'm Gonna Leave You;0.246;0.404;0.435;0.00074;0.156;-12.045;0;0.0323;136.058;0.156;https://api.spotify.com/v1/tracks/4OMu5a8sFpcRCPCcsoEaov
+13;Led Zeppelin;The Girl I Love She Got Long Black Wavy Hair - 22/6/69 Pop Sundae;0.111;0.264;0.609;0.311;0.322;-10.992;0;0.0655;185.875;0.862;https://api.spotify.com/v1/tracks/7ecVrUYlhj6OrKTAK0oDzo
+14;Led Zeppelin;Over The Hills And Far Away;0.0582;0.412;0.54;0.0717;0.0849;-13.897;1;0.0516;96.783;0.299;https://api.spotify.com/v1/tracks/5KXdflxoxCcE9m5F2QoAUY
+15;Led Zeppelin;Misty Mountain Hop - Alternate Mix;0.0763;0.488;0.892;0.486;0.266;-7.131;1;0.0496;132.554;0.675;https://api.spotify.com/v1/tracks/05BTaDBhGylMDjupCczCwC
+16;Led Zeppelin;Dancing Days;0.174;0.556;0.855;0.00381;0.261;-6.901;1;0.0403;117.248;0.721;https://api.spotify.com/v1/tracks/4YsNkF22bkppExAF3kOTYv
+17;Led Zeppelin;D'yer Mak'er;0.15;0.537;0.893;0.000286;0.0688;-10.234;0;0.0636;163.727;0.588;https://api.spotify.com/v1/tracks/6UCb3me83cyCV19sjvucte
+18;Led Zeppelin;Hey Hey What Can I Do;0.166;0.468;0.858;0.000304;0.0807;-9.639;1;0.0543;77.987;0.526;https://api.spotify.com/v1/tracks/16VhHtoaOjTU4AJBNSBNQ1
+19;Led Zeppelin;The Ocean;0.0533;0.443;0.555;0.024;0.311;-9.303;0;0.0474;87.982;0.755;https://api.spotify.com/v1/tracks/3K2KSafiK1to517id5CoPr
+20;Led Zeppelin;Communication Breakdown - 22/6/69 Pop Sundae;0.00574;0.367;0.779;0.00708;0.288;-8.334;1;0.0488;90.354;0.794;https://api.spotify.com/v1/tracks/0RR8wuHHc5NqSFxhPDDBNV
+21;Led Zeppelin;The Song Remains The Same;0.053;0.267;0.78;0.192;0.271;-8.777;1;0.055;144.292;0.674;https://api.spotify.com/v1/tracks/59hhEeGGOgoPBVBNp3wxCd
+22;Led Zeppelin;The Rain Song;0.317;0.336;0.318;0.0716;0.111;-11.412;1;0.0263;79.66;0.24;https://api.spotify.com/v1/tracks/3JLrri1xSCui3bzITDJbkk
+23;Led Zeppelin;Thank You;0.171;0.316;0.27;0.00225;0.165;-14.429;1;0.059;78.476;0.0956;https://api.spotify.com/v1/tracks/4ZkhFcoS3apzze9w2yI9NO
+24;Led Zeppelin;Tangerine;0.0857;0.306;0.398;6.02e-05;0.0756;-12.767;1;0.0412;85.622;0.0948;https://api.spotify.com/v1/tracks/4ywWJqYKOwaVVh9xXARWUS
+25;Led Zeppelin;Out On The Tiles;0.083;0.418;0.962;0.00282;0.138;-8.423;1;0.0567;94.141;0.59;https://api.spotify.com/v1/tracks/6fxcpQMUoX0ofnbIHVnVWN
+26;Led Zeppelin;Friends;0.744;0.257;0.452;0.0996;0.38;-12.365;1;0.0349;83.553;0.271;https://api.spotify.com/v1/tracks/7jP44G0vKQLkfJ3x19pqPn
+27;Led Zeppelin;Dazed And Confused;0.044;0.271;0.553;0.0096;0.0999;-9.526;1;0.0472;86.762;0.433;https://api.spotify.com/v1/tracks/6hu1f1cXSw7OAqhpSQ2zDy
+28;Led Zeppelin;Going To California;0.943;0.503;0.265;0.045;0.0867;-15.913;1;0.0333;78.044;0.522;https://api.spotify.com/v1/tracks/70gbuMqwNBE2Y5rkQJE9By
+29;Led Zeppelin;What Is And What Should Never Be;0.275;0.34;0.472;0.0;0.0843;-12.939;1;0.0473;78.086;0.533;https://api.spotify.com/v1/tracks/5G7uLHtoEW140QOcBpJlfz
+30;Led Zeppelin;I Can't Quit You Baby;0.525;0.506;0.434;0.0011;0.234;-13.758;1;0.129;80.523;0.498;https://api.spotify.com/v1/tracks/62QInSlXQI11BR9ycVWjd6
+31;Led Zeppelin;No Quarter;0.657;0.339;0.34;0.459;0.375;-14.377;1;0.0385;142.362;0.117;https://api.spotify.com/v1/tracks/2fQ2iALVbAZ7MkH6PaaIJ6
+32;Led Zeppelin;Fool In The Rain;0.0866;0.539;0.866;0.00414;0.0953;-8.404;1;0.0483;130.345;0.761;https://api.spotify.com/v1/tracks/62p6fF2r4NY6pwZbxxvmr8
+33;Led Zeppelin;You Shook Me;0.662;0.367;0.481;0.0237;0.137;-12.915;0;0.0626;155.96;0.383;https://api.spotify.com/v1/tracks/0CrseEjTnYoB625tKoUowp
+34;Led Zeppelin;The Rain Song;0.684;0.276;0.298;0.0573;0.156;-11.965;1;0.0264;76.56;0.216;https://api.spotify.com/v1/tracks/2X0wYy6mbVh2GpFEYIvCp6
+35;Led Zeppelin;Houses Of The Holy - Rough Mix With Overdubs;0.467;0.605;0.691;0.742;0.441;-10.57;1;0.0337;123.288;0.965;https://api.spotify.com/v1/tracks/2Kka8ruBg8jCabrZyAVEHS
+36;Led Zeppelin;Trampled Under Foot;0.163;0.55;0.835;0.179;0.0864;-8.632;0;0.0487;111.25;0.808;https://api.spotify.com/v1/tracks/2g7iUTiLRue30KAXnesFgt
+37;Led Zeppelin;Moby Dick - Intro/Outro Rough Mix;0.252;0.493;0.593;0.891;0.0733;-13.3;0;0.0613;93.397;0.841;https://api.spotify.com/v1/tracks/4lZjT7PLaWPIcm2InIDU2k
+38;Led Zeppelin;Bring It On Home;0.479;0.345;0.461;0.0184;0.0993;-12.063;1;0.0645;96.346;0.171;https://api.spotify.com/v1/tracks/1rxD34LAtkafrMUHqHIV76
+39;Led Zeppelin;That's The Way;0.673;0.245;0.328;0.0;0.138;-11.553;1;0.0377;86.926;0.102;https://api.spotify.com/v1/tracks/1ZUv3ISx2nFaz0JimVdcoT
+40;Led Zeppelin;How Many More Times;0.114;0.322;0.68;0.0245;0.434;-11.349;1;0.061;142.748;0.518;https://api.spotify.com/v1/tracks/5VBzIn9cBH4BNa1c6Zilba
+41;Led Zeppelin;The Lemon Song;0.0939;0.409;0.515;0.0723;0.0916;-13.007;1;0.116;90.527;0.729;https://api.spotify.com/v1/tracks/5qbVkwfy0RYGFA6hAiIL90
+42;Led Zeppelin;Ten Years Gone;0.526;0.544;0.4;0.0378;0.0716;-12.504;1;0.0439;76.982;0.264;https://api.spotify.com/v1/tracks/1NV6sCADgcLSW7DG7zSWlq
+43;Led Zeppelin;Bron-Y-Aur Stomp;0.16;0.525;0.501;0.025;0.146;-14.192;1;0.0318;108.291;0.333;https://api.spotify.com/v1/tracks/1dK6cNOMYjEP3QGYOfwP6t
+44;Led Zeppelin;Nobody's Fault But Mine;0.0523;0.243;0.813;0.21;0.188;-8.809;1;0.102;187.617;0.471;https://api.spotify.com/v1/tracks/2mYpbsbzCM3dqrM2XjgSjh
+45;Led Zeppelin;Travelling Riverside Blues - 29/6/69 Top Gear;0.177;0.476;0.78;0.00308;0.26;-9.009;1;0.0564;91.609;0.634;https://api.spotify.com/v1/tracks/5cWIRgigrzjTjDBNXQxhAR
+46;Led Zeppelin;In The Evening;0.00652;0.454;0.779;0.48;0.0963;-8.444;1;0.0428;103.161;0.509;https://api.spotify.com/v1/tracks/2fvLQe9ZlRaEJ5o4sG3TbM
+47;Led Zeppelin;Gallows Pole;0.125;0.399;0.845;0.00109;0.334;-8.736;1;0.0369;105.911;0.359;https://api.spotify.com/v1/tracks/4S2QZuPFZ9qeHW2sonMJS1
+48;Led Zeppelin;Custard Pie;0.297;0.476;0.666;0.103;0.0316;-9.309;1;0.0346;182.107;0.855;https://api.spotify.com/v1/tracks/5cgL1YdlGWR5KfncpAGFQk
+49;Led Zeppelin;The Crunge;0.132;0.531;0.798;0.0;0.356;-8.514;1;0.148;112.609;0.852;https://api.spotify.com/v1/tracks/6nx1JCehhu4N9j5qNALyTu
+50;Led Zeppelin;The Rover;0.0133;0.367;0.752;0.00979;0.0658;-8.134;0;0.0317;205.47;0.401;https://api.spotify.com/v1/tracks/4hLQfgtzEyxme6w5GiwAEy
+51;Led Zeppelin;For Your Life;0.0141;0.374;0.719;0.000344;0.132;-9.336;1;0.177;184.18;0.671;https://api.spotify.com/v1/tracks/2hXhzBwIcrfQQUdelpLZXH
+52;Led Zeppelin;Hot Dog;0.0344;0.606;0.929;0.00824;0.323;-9.059;1;0.0386;116.909;0.789;https://api.spotify.com/v1/tracks/3dK54dSsNcIUcYKzNh5FgI
+53;Greta Van Fleet;Safari Song;0.176;0.373;0.931;9.12e-06;0.319;-4.043;1;0.0506;175.92;0.74;https://api.spotify.com/v1/tracks/1BfR5GMOgW0peHkPxrwf11
+54;Greta Van Fleet;Edge Of Darkness;0.00717;0.452;0.944;0.161;0.0766;-3.785;1;0.0587;148.07;0.673;https://api.spotify.com/v1/tracks/4rhUBIlzi7zgV7TryhVujl
+55;Greta Van Fleet;Flower Power;0.349;0.198;0.703;0.0382;0.151;-5.484;1;0.0361;76.899;0.219;https://api.spotify.com/v1/tracks/4SE1kjgRulcwjNcc7oFFg4
+56;Greta Van Fleet;A Change Is Gonna Come;0.026;0.365;0.684;0.000329;0.144;-4.769;0;0.0397;129.637;0.548;https://api.spotify.com/v1/tracks/12YYFvwwuYiw010ONgfYlW
+57;Greta Van Fleet;Highway Tune;0.0107;0.579;0.957;0.158;0.263;-2.94;1;0.0521;123.993;0.515;https://api.spotify.com/v1/tracks/7aOor99o8NNLZYElOXlBG1
+58;Greta Van Fleet;Meet On The Ledge;0.303;0.503;0.78;2.44e-05;0.152;-4.751;1;0.0401;145.127;0.382;https://api.spotify.com/v1/tracks/6CDYbIZs6DjyhDm7lUbpc1
+59;Greta Van Fleet;Talk On The Street;0.232;0.527;0.939;0.000411;0.104;-3.518;0;0.0578;134.01;0.57;https://api.spotify.com/v1/tracks/2H9sGMEd19c2XzUyigadgS
+60;Greta Van Fleet;Black Smoke Rising;0.187;0.372;0.911;0.000199;0.0883;-3.949;1;0.0694;200.012;0.536;https://api.spotify.com/v1/tracks/32BEasyNQgqXQJKoVa0fUw

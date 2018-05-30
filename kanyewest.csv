@@ -1,0 +1,48 @@
+;artists;name;acousticness;danceability;energy;instrumentalness;liveness;loudness;mode;speechiness;tempo;valence;track_href
+0;Kanye West;Stronger;0.00564;0.617;0.717;0.0;0.408;-7.858;0;0.153;103.992;0.49;https://api.spotify.com/v1/tracks/4y6c5vMzKKM3KsMbHtjKx5
+1;Kanye West;Gold Digger;0.0223;0.638;0.699;0.0;0.0917;-5.54;0;0.384;92.939;0.66;https://api.spotify.com/v1/tracks/1PS1QMdUqOal0ai3Gt7sDQ
+2;Kanye West;POWER;0.0178;0.538;0.912;0.0;0.689;-4.684;0;0.129;154.042;0.588;https://api.spotify.com/v1/tracks/2gZUPNdnz5Y45eiGxpHGSc
+3;Kanye West;Waves;0.0363;0.386;0.587;3.71e-06;0.332;-4.454;1;0.0519;96.072;0.0565;https://api.spotify.com/v1/tracks/3nAq2hCr1oWsIU54tS98pL
+4;Chance The Rapper;All We Got (feat. Kanye West & Chicago Children's Choir);0.308;0.531;0.544;1.89e-06;0.0835;-8.615;0;0.462;131.921;0.398;https://api.spotify.com/v1/tracks/3ZLyt2ndLFBh148XRYjYYZ
+5;Kanye West;Heartless;0.0401;0.789;0.65;0.0;0.249;-6.16;0;0.121;87.983;0.617;https://api.spotify.com/v1/tracks/4EWCNWgDS8707fNSZ1oaA5
+6;Kanye West;Black Skinhead;0.000986;0.578;0.825;0.0;0.176;-6.107;1;0.322;130.089;0.283;https://api.spotify.com/v1/tracks/1ce3DvvGQn6hY2LMGMLCr5
+7;Kanye West;Ultralight Beam;0.637;0.596;0.393;0.0;0.539;-8.714;1;0.383;107.425;0.36;https://api.spotify.com/v1/tracks/1eQBEelI2NCy7AUTerX0KS
+8;JAY Z;Ni**as In Paris;0.0942;0.749;0.884;0.0;0.191;-6.07;1;0.243;140.077;0.705;https://api.spotify.com/v1/tracks/2KpCpk6HjXXLb7nnXoXA5O
+9;Kanye West;All Of The Lights;0.0724;0.558;0.794;2.15e-05;0.19;-3.234;1;0.0533;142.156;0.297;https://api.spotify.com/v1/tracks/22L7bfCiAkJo5xGSQgmiIO
+10;Kanye West;Can't Tell Me Nothing;0.0121;0.594;0.614;0.0;0.823;-6.091;0;0.0536;79.968;0.101;https://api.spotify.com/v1/tracks/4ImL3v98u2BLkwnyQDjfRm
+11;Kanye West;Father Stretch My Hands Pt. 1;0.142;0.714;0.566;1.25e-06;0.57;-4.408;1;0.056;113.074;0.449;https://api.spotify.com/v1/tracks/4KW1lqgSr8TKrvBII0Brf8
+12;Kanye West;All Falls Down;0.184;0.643;0.717;0.0;0.152;-4.876;0;0.506;90.893;0.46;https://api.spotify.com/v1/tracks/2cYZpcIV39X48RnOFM7w2V
+13;Kanye West;Runaway;0.195;0.552;0.577;0.00257;0.527;-3.724;0;0.0725;86.966;0.107;https://api.spotify.com/v1/tracks/3DK6m7It6Pw857FcQftMds
+14;Kanye West;Good Life;0.00376;0.435;0.802;0.0;0.467;-6.871;1;0.324;84.267;0.454;https://api.spotify.com/v1/tracks/1fLdeDTrJWNkwOeFyAVLvF
+15;Kanye West;Famous;0.0602;0.474;0.741;0.0;0.115;-3.69;1;0.111;174.1;0.402;https://api.spotify.com/v1/tracks/19a3JfW8BQwqHWUMbcqSx8
+16;Kanye West;Mercy;0.0855;0.737;0.545;9.32e-05;0.153;-8.536;0;0.362;140.086;0.443;https://api.spotify.com/v1/tracks/4qikXelSRKvoCqFcHLB2H2
+17;Kanye West;Monster;0.00243;0.621;0.683;0.00856;0.525;-5.619;0;0.242;124.283;0.0917;https://api.spotify.com/v1/tracks/1ZHYJ2Wwgxes4m8Ba88PeK
+18;Estelle;American Boy (feat. Kanye West);0.171;0.727;0.729;0.0;0.07;-2.99;1;0.326;117.932;0.512;https://api.spotify.com/v1/tracks/41on8RwRh22IHcChAN2gm8
+19;Kanye West;FML;0.313;0.667;0.423;0.0;0.193;-7.146;0;0.0822;125.116;0.156;https://api.spotify.com/v1/tracks/30Zcjs7pgEkmJA1lEbGSWT
+20;ScHoolboy Q;THat Part;0.0886;0.919;0.519;0.0;0.135;-7.639;0;0.0902;112.991;0.326;https://api.spotify.com/v1/tracks/2yJ9GVCLMmzBBfQAnfzlwr
+21;Kanye West;Champions;0.0661;0.695;0.777;0.0;0.874;-2.452;0;0.0817;135.01;0.36;https://api.spotify.com/v1/tracks/2nBI3iWLhupR7LyAJ5GGkE
+22;Kanye West;Flashing Lights;0.0315;0.634;0.649;0.0;0.482;-7.505;0;0.0486;90.482;0.509;https://api.spotify.com/v1/tracks/0ua0Go4NN4Td7l0Zre6Ce3
+23;Kanye West;Blood On The Leaves;0.385;0.415;0.681;0.0;0.101;-4.104;0;0.189;171.893;0.364;https://api.spotify.com/v1/tracks/42GcjriRK6srwHkfbkBqVl
+24;Kanye West;Real Friends;0.268;0.445;0.746;0.00033;0.138;-6.281;0;0.456;170.612;0.121;https://api.spotify.com/v1/tracks/66Q3fAmSX5eHamgbKa9alP
+25;Kanye West;Love Lockdown;0.0539;0.756;0.529;0.392;0.112;-7.659;0;0.0329;119.573;0.123;https://api.spotify.com/v1/tracks/1kxeWHF9PrCVZHvVskv8lg
+26;Kanye West;Homecoming;0.323;0.679;0.754;0.0;0.126;-6.965;1;0.186;86.993;0.905;https://api.spotify.com/v1/tracks/2iaCM7WvOknQI1230hA9eK
+27;Kanye West;Bound 2;0.134;0.359;0.662;0.0;0.0907;-2.843;1;0.0466;152.096;0.288;https://api.spotify.com/v1/tracks/3sNVsP50132BTNlImLx70i
+28;Kanye West;Touch The Sky;0.0115;0.524;0.845;0.0;0.434;-4.912;1;0.348;98.388;0.553;https://api.spotify.com/v1/tracks/6mxyfdyF4LD7PctU3UNyjF
+29;Kanye West;Jesus Walks;0.578;0.427;0.844;0.0;0.284;-4.597;0;0.427;85.346;0.716;https://api.spotify.com/v1/tracks/62r62ArmWq38cu6QCVgyTc
+30;Kanye West;I Wonder;0.13;0.54;0.476;0.000252;0.135;-8.658;1;0.111;191.259;0.116;https://api.spotify.com/v1/tracks/6bXOlIfGIWh7Tyn4oyvLQW
+31;Kanye West;Gorgeous;0.0255;0.6;0.736;0.000139;0.167;-3.533;0;0.0364;91.99;0.122;https://api.spotify.com/v1/tracks/23SZWX2IaDnxmhFsSLvkG2
+32;JAY Z;Clique;0.0567;0.467;0.564;0.0;0.194;-4.986;0;0.353;81.966;0.296;https://api.spotify.com/v1/tracks/3rbNV2GI8Vtd8byhUtXZID
+33;Kanye West;Through The Wire;0.00834;0.548;0.75;2.81e-06;0.166;-6.229;1;0.284;82.811;0.617;https://api.spotify.com/v1/tracks/3KUpGMnZL76I9E7FoWV1re
+34;CyHi The Prynce;Dat Side;0.0123;0.87;0.578;0.0;0.0529;-8.526;1;0.125;148.007;0.506;https://api.spotify.com/v1/tracks/6NvSxE4pfP7TcD1OhGgaZW
+35;Kanye West;Devil In A New Dress;0.0162;0.304;0.756;0.0;0.145;-4.857;1;0.135;84.239;0.193;https://api.spotify.com/v1/tracks/1UGD3lW3tDmgZfAVDh6w7r
+36;Kanye West;Mercy.1;0.045;0.731;0.624;3.37e-05;0.305;-5.761;0;0.311;140.131;0.528;https://api.spotify.com/v1/tracks/3U8Ev1gISsx6O1uwpsttOD
+37;Rihanna;FourFiveSeconds;0.868;0.579;0.268;0.0;0.12;-5.65;1;0.0442;205.903;0.321;https://api.spotify.com/v1/tracks/5XzmZjXhMjDHr7ZfJ6DELQ
+38;Kanye West;New Slaves;0.141;0.5;0.593;6.21e-06;0.0969;-4.34;1;0.0898;68.456;0.329;https://api.spotify.com/v1/tracks/4cAgkb0ifwn0FSHGXnr4F6
+39;Drake;Forever;0.244;0.544;0.92;0.0;0.19;-1.474;0;0.277;105.307;0.519;https://api.spotify.com/v1/tracks/6HSqyfGnsHYw9MmIpa9zlZ
+40;Kanye West;Amazing;0.218;0.579;0.545;0.0913;0.0642;-8.354;1;0.0418;73.034;0.483;https://api.spotify.com/v1/tracks/0m3Ze0cy8qBHSsV2exAfCw
+41;Kid Cudi;Erase Me - Main;0.0693;0.682;0.642;0.0;0.116;-5.643;1;0.152;186.037;0.857;https://api.spotify.com/v1/tracks/6XkuklKiHYVTlVvWlTgQYP
+42;Kanye West;Hey Mama;0.0572;0.628;0.767;0.0;0.105;-6.884;1;0.217;95.936;0.375;https://api.spotify.com/v1/tracks/46OFHBw45fNi7QNjSetITR
+43;Kid Cudi;Make Her Say;0.261;0.933;0.718;2.04e-05;0.12;-5.165;0;0.0815;99.094;0.438;https://api.spotify.com/v1/tracks/7dZAPeA3Of5j5Vaef0DQ6M
+44;Vic Mensa;U Mad;0.0151;0.706;0.581;0.0;0.368;-6.492;1;0.055;134.009;0.435;https://api.spotify.com/v1/tracks/3KiEydhjn7yf58h9jBD5Sa
+45;Kanye West;All Day;0.0648;0.855;0.638;0.0;0.162;-4.968;0;0.143;122.967;0.412;https://api.spotify.com/v1/tracks/79reBHqpRoWXaQbjBBY3UC
+46;Jeezy;Put On;0.0027;0.649;0.785;0.0;0.0859;-6.031;0;0.0369;137.618;0.294;https://api.spotify.com/v1/tracks/5dANgSy7v091dhiPnEXNrf
